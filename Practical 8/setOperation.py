@@ -1,3 +1,5 @@
+# 2. Write a Python program to perform following operations on set: intersection of
+# sets, union of sets, set difference, symmetric difference, clear a set
 s1 = {1, 2, 3, 4, 5}
 s2 = {4, 5, 6, 7, 8}
 print('Before Operation \n Set 1= {0} \n Set 2= {1}'.format(s1, s2))

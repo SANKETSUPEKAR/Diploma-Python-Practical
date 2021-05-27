@@ -1,3 +1,4 @@
+# Write a Python program to create a set, add member(s) in a set and remove one item from set
 s = {1, 2, 3}
 print("Before Operation :", s)
 s.add(4)
